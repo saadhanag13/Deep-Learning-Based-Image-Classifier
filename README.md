@@ -40,3 +40,4 @@ Optimizer: Adam
 ## 🧑‍💻 Author
 #### Saadhana Ganesa Narasimhan
 MSc Graduate | Aspiring AI/ML Engineer | Passionate about real-world deep learning applications
+https://www.linkedin.com/in/saadhana-ganesh-45a50a18b/
