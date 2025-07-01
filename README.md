@@ -33,11 +33,15 @@ Test Accuracy: ~91–93%
 
 Epochs: 5
 
-Loss Function: Categorical Crossentropy
+Loss Function: Categorical Cross-Entropy
 
 Optimizer: Adam
 
 ## 🧑‍💻 Author
-#### Saadhana Ganesa Narasimhan
+### Saadhana Ganesa Narasimhan
 MSc Graduate | Aspiring AI/ML Engineer | Passionate about real-world deep learning applications
-https://www.linkedin.com/in/saadhana-ganesh-45a50a18b/
+
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saadhanag13.github.io/MyResume/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadhana-ganesh-45a50a18b/)
+
