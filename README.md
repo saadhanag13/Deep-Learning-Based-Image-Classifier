@@ -24,7 +24,7 @@ Dataset: Fashion MNIST — 70,000 images (60K training, 10K testing)
 
 ## 🚀 Model Architecture
 
-##### Input Layer: (28x28 grayscale image)→ Reshape → Conv2D (32 filters) → MaxPooling → Conv2D (64 filters) → MaxPooling → Flatten → Dropout(0.25) → Dense(128, relu)→ Dense(10, softmax)
+![Diagram of Convolutional Neural Network Structure](https://github.com/user-attachments/assets/3ce08713-89a4-4924-8a9a-e3bd8c328919)
 
 ## 📊 Training Results
 Training Accuracy: ~99%
@@ -39,7 +39,8 @@ Optimizer: Adam
 
 ## 🧑‍💻 Author
 ### Saadhana Ganesa Narasimhan
-MSc Graduate | Aspiring AI/ML Engineer | Passionate about real-world deep learning applications
+MSc Graduate | Aspiring AI/ML Engineer | Passionate about real-world deep learning
+g applications
 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saadhanag13.github.io/MyResume/)
